@@ -1,0 +1,27 @@
+{
+  "name": "webduino-bit-module-ultrasonic",
+  "version": "1.0.0",
+  "description": "🔌 Block Module for Ultrasonic of Webduino:bit",
+  "main": "BitUltrasonic-blockly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webduinoio/webduino-bit-module-ultrasonic.git"
+  },
+  "keywords": [
+    "arduino",
+    "webduino",
+    "ultrasonic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webduinoio/webduino-bit-module-ultrasonic/issues"
+  },
+  "homepage": "https://webduino.io",
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

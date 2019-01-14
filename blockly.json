@@ -1,0 +1,20 @@
+{
+  "types": [
+    "ultrasonic_new_bit",
+    "ultrasonic_get",
+    "ultrasonic_get_promise",
+    "ultrasonic_stop",
+    "ultrasonic_distance"
+  ],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "BitUltrasonic-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

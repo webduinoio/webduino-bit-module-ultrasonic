@@ -1,0 +1,8 @@
+Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_TRIG_BIT = "超聲波传感器，Trig";
+Blockly.Msg.WEBDUINO_ULTRASONIC_NEW_ECHO_BIT = "  Echo";
+Blockly.Msg.WEBDUINO_ULTRASONIC_GET = "撷取距离";
+Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DISTANCE = "撷取距离，每";
+Blockly.Msg.WEBDUINO_ULTRASONIC_GET_TIME = "毫秒 ( 1/1000 秒 ) 撷取一次";
+Blockly.Msg.WEBDUINO_ULTRASONIC_GET_DO = "执行";
+Blockly.Msg.WEBDUINO_ULTRASONIC_DISTANCE = "所撷取的距离 ( 公分 )";
+Blockly.Msg.WEBDUINO_ULTRASONIC_STOP = "停止撷取距离";

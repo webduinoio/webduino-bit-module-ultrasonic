@@ -1,0 +1,21 @@
+<category id="catUltraSonic_bit" index="1" tags="bit">
+  <block type="variables_set">
+    <field name="VAR">ultrasonic</field>
+    <value name="VALUE">
+      <block type="ultrasonic_new_bit">
+        <field name="trig_">6</field>
+        <field name="echo_">7</field>
+      </block>
+    </value>
+  </block>
+  <block type="ultrasonic_get">
+    <value name="time">
+      <block type="math_number">
+        <field name="NUM">500</field>
+      </block>
+    </value>
+  </block>
+  <block type="ultrasonic_get_promise"></block>
+  <block type="ultrasonic_stop"></block>
+  <block type="ultrasonic_distance"></block>
+</category>
